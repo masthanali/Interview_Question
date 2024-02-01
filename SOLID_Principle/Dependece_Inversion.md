@@ -1,4 +1,4 @@
-### Q7. What are Solid principles ?
+### Q7. What are Dependency Inversion Principle (DIP) ?
 
 - The Dependency Inversion Principle (DIP) states
   that a **high-level class must not depend upon a
